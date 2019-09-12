@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 打开这个网页的人全天下最好看了！对就是你！
 
 You can use the [editor on GitHub](https://github.com/zyloooongbaby/All-for-the-dragon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
